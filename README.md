@@ -1,6 +1,6 @@
 # Machine Learning Beginning Course
 
-Классический вводный курс по современному Machine Learning’у с упором на практику.
+Класичний вступний курс із сучасного Machine Learning з акцентом на практику.
 
 https://prjctr.com/course/machine-learning-basics
 
